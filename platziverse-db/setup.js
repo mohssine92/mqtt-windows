@@ -47,6 +47,7 @@ async function setup () {
     } // si es true porque user digo si (pues no entro aqui ), pues continuo con el ejecuccion de procesos de esta funcion asyncrona - que acontinuacion drop and delete
 
   }
+  
 
   // TODO: cunado instalamos esto en degital ocean , la db la llamamos platziverseproduccion etc . asi primero pasamos valores como se fueran valores de entorno 
   // || o poe defecto en cao d desarollo 
